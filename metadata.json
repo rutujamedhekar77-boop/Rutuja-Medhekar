@@ -1,0 +1,6 @@
+{
+  "name": "Maison Du Sole | Luxury Footwear",
+  "description": "Discover Maison Du Sole — premium handcrafted footwear blending timeless European craftsmanship, modern design, and everyday comfort. Step Into Your Signature Style.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
